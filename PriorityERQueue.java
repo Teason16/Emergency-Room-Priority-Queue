@@ -22,6 +22,7 @@ public class PriorityERQueue {
         
         //add patient to the queue
         theER.add(er1);
+        System.out.println("New patient adding to queue");
         theER.add(er2);
         theER.add(er3);
         theER.add(er4);
